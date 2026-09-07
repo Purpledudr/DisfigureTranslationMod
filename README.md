@@ -55,3 +55,9 @@ You will not be able to gain score while the mod is enabled, to play a run norma
 - [`plugins.json`](plugins.json): Public application and plugin catalog
 
 Build instructions and implementation details for the Translation Mod are in [TECHNICAL.md](TECHNICAL.md).
+
+
+### AI Use disclaimer
+
+Yes, AI was used to make this stuff, I'm a single dad with a full time job so I don't have alot of free time. But I love the game and making these mods is how i want to contribute to the community. 
+I don't condone the way alot of people are using AI as a crutch for thinking and are hurting others with it's use. I only and will only ever use AI as what its meant to be, a tool, like a calculator or a shovel, all its meant for is to be used as a helping hand. 
